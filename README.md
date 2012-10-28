@@ -12,11 +12,12 @@ A collection of scripts related to @ocram's picons
   commented out for manual correction/addition.
 
   For usage instructions, see:
+
   ```python2 piconlinks.py -h```
 
-* `kabelbw.sh` creates the same symlinks as picons.sh
-  from ocram's repo does, but only for the German DVB-C
-  provider Kabel BW.
-  Look at the "unmatched channels" section, if you care
-  to conribute missing picons to
+* `kabelbw.sh` creates the same symlinks as @ocram's
+  [picons.sh](https://github.com/ocram/picons/blob/master/picons.sh),
+  but only for the German DVB-C provider Kabel BW.
+  Look at the `"# unmatched channels"` section, if you
+  care to conribute missing picons to
   https://github.com/ocram/picons.
