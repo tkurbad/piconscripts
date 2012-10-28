@@ -18,6 +18,6 @@ A collection of scripts related to @ocram's picons
   from ocram's repo does, but only for the German DVB-C
   provider Kabel BW.
   Look at the "unmatched channels" section, if you care
-  to conribute missing icons to
+  to conribute missing picons to
   https://github.com/ocram/picons.
 
