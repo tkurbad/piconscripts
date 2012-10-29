@@ -372,6 +372,8 @@ ln -s france24.png 1_0_1_561C_DA_A018_FFFF0000_0_0_0.png
 ln -s franceo.png 1_0_1_5748_EB_A018_FFFF0000_0_0_0.png
 # hr-fernsehen;ARD
 ln -s hessenfernsehen.png 1_0_1_6DCC_44D_A401_FFFF0000_0_0_0.png
+# iM1;Frei deutsch
+ln -s im1.png 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
 # kabel1 classics;Pay deutsch
 ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
 # KINOWELT;Pay deutsch
@@ -436,6 +438,8 @@ ln -s rainews.png 1_0_1_D10D_2714_F001_FFFF0000_0_0_0.png
 ln -s rbb.png 1_0_1_6E2E_431_A401_FFFF0000_0_0_0.png
 # rbb Brandenburg;ARD
 ln -s rbb.png 1_0_1_6E2D_431_A401_FFFF0000_0_0_0.png
+# RTF 1;Frei regional
+ln -s rtf1.png 1_0_1_579F_D7_A018_FFFF0000_0_0_0.png
 # RTL Television;RTL
 ln -s rtl.png 1_0_1_2EE3_441_A018_FFFF0000_0_0_0.png
 # RTP Internacional;Pay int
@@ -563,7 +567,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Hayat TV;Pay int] 1_0_1_5658_DD_A018_FFFF0000_0_0_0.png
 # ln -s [HD Campus TV;HD] 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 # ln -s [HRT TV1;Bonus] 1_0_1_5775_ED_A018_FFFF0000_0_0_0.png
-# ln -s [iM1;Frei deutsch] 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
 # ln -s [Info KabelBW;Frei deutsch] 1_0_1_5622_DA_A018_FFFF0000_0_0_0.png
 # ln -s [INFO REGIO;Bonus] 1_0_1_5794_EE_A018_FFFF0000_0_0_0.png
 # ln -s [itvn;Pay int] 1_0_1_CF72_70_F001_FFFF0000_0_0_0.png
@@ -591,7 +594,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Record TV;Bonus] 1_0_1_5730_EA_A018_FFFF0000_0_0_0.png
 # ln -s [RIK Reutlingen;Frei regional] 1_0_1_579E_D7_A018_FFFF0000_0_0_0.png
 # ln -s [RTCG Sat;Pay deutsch] 1_0_1_5744_EA_A018_FFFF0000_0_0_0.png
-# ln -s [RTF 1;Frei regional] 1_0_1_579F_D7_A018_FFFF0000_0_0_0.png
 # ln -s [RTK1;Pay int] 1_0_1_5686_E1_A018_FFFF0000_0_0_0.png
 # ln -s [RTR Planeta;Pay int] 1_0_1_CFDC_2711_F001_FFFF0000_0_0_0.png
 # ln -s [RTV21;Pay int] 1_0_1_568E_E1_A018_FFFF0000_0_0_0.png
