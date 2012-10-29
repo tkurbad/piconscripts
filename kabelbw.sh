@@ -328,6 +328,8 @@ ln -s boomerang.png 1_0_1_D09F_2714_F001_FFFF0000_0_0_0.png
 ln -s bralpha.png 1_0_1_6F47_41B_A401_FFFF0000_0_0_0.png
 # Cartoon Network GB;Pay int
 ln -s cartoonnetwork.png 1_0_1_C612_2712_F001_FFFF0000_0_0_0.png
+# Classica HD;HD
+ln -s unitelclassicahd.png 1_0_19_56B0_E3_A018_FFFF0000_0_0_0.png
 # CNBC Europe GB;Pay int
 ln -s cnbc.png 1_0_1_D0A2_2714_F001_FFFF0000_0_0_0.png
 # DIE NEUE ZEIT TV;Frei deutsch
@@ -388,6 +390,8 @@ ln -s mdr.png 1_0_1_6E46_431_A401_FFFF0000_0_0_0.png
 ln -s mtvhits.png 1_0_1_CF79_2712_F001_FFFF0000_0_0_0.png
 # MTV Music 24;Pay int
 ln -s mtvmusic.png 1_0_1_5632_DB_A018_FFFF0000_0_0_0.png
+# National Geographic HD;HD
+ln -s nationalgeographichd.png 1_0_19_5756_EB_A018_FFFF0000_0_0_0.png
 # NDR FS HH;ARD
 ln -s ndr.png 1_0_1_6E41_431_A401_FFFF0000_0_0_0.png
 # NDR FS MV;ARD
@@ -406,6 +410,8 @@ ln -s orf2.png 1_0_1_56FA_E7_A018_FFFF0000_0_0_0.png
 ln -s pcne.png 1_0_1_574D_EB_A018_FFFF0000_0_0_0.png
 # Planet;Pay deutsch
 ln -s planetde.png 1_0_1_C3B9_2713_F001_FFFF0000_0_0_0.png
+# Planet HD;HD
+ln -s planethdde.png 1_0_19_56D8_E5_A018_FFFF0000_0_0_0.png
 # ProSieben;Pro7 & Sat.1
 ln -s pro7.png 1_0_1_445D_453_A018_FFFF0000_0_0_0.png
 # ProSieben HD;HD
@@ -533,7 +539,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [bw family;Frei regional] 1_0_1_56AA_E3_A018_FFFF0000_0_0_0.png
 # ln -s [CamDeputati;Bonus] 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
 # ln -s [Channel1 RUS;Pay int] 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
-# ln -s [Classica HD;HD] 1_0_19_56B0_E3_A018_FFFF0000_0_0_0.png
 # ln -s [CMC;Bonus] 1_0_1_5776_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Detskij Mir/TeleKlub;Pay int] 1_0_1_D0FF_2711_F001_FFFF0000_0_0_0.png
 # ln -s [DM SAT;Bonus] 1_0_1_5774_ED_A018_FFFF0000_0_0_0.png
@@ -569,13 +574,11 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [National Geographic;Pay deutsch] 1_0_1_C614_2712_F001_FFFF0000_0_0_0.png
 # ln -s [National Geographic;Sky] 1_0_1_D_4_85_FFFF0000_0_0_0.png
 # ln -s [National Geographic GB;Pay int] 1_0_1_CFD8_2712_F001_FFFF0000_0_0_0.png
-# ln -s [National Geographic HD;HD] 1_0_19_5756_EB_A018_FFFF0000_0_0_0.png
 # ln -s [Pink Extra;Pay int] 1_0_1_5655_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pink Film;Pay int] 1_0_1_5659_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pink FOLK;Pay int] 1_0_1_565A_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pink Music;Pay int] 1_0_1_5657_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pink Plus;Pay int] 1_0_1_5654_DD_A018_FFFF0000_0_0_0.png
-# ln -s [Planet HD;HD] 1_0_19_56D8_E5_A018_FFFF0000_0_0_0.png
 # ln -s [Pokerchannel;Pay int] 1_0_1_5635_DB_A018_FFFF0000_0_0_0.png
 # ln -s [Powert?k;Bonus] 1_0_1_5759_EC_A018_FFFF0000_0_0_0.png
 # ln -s [Pro TV International;Bonus] 1_0_1_5763_EC_A018_FFFF0000_0_0_0.png
