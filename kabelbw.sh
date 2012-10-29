@@ -390,8 +390,16 @@ ln -s mdr.png 1_0_1_6E46_431_A401_FFFF0000_0_0_0.png
 ln -s mtvhits.png 1_0_1_CF79_2712_F001_FFFF0000_0_0_0.png
 # MTV Music 24;Pay int
 ln -s mtvmusic.png 1_0_1_5632_DB_A018_FFFF0000_0_0_0.png
+# National Geographic;Pay deutsch
+ln -s nationalgeographic.png 1_0_1_C614_2712_F001_FFFF0000_0_0_0.png
+# National Geographic;Sky
+ln -s nationalgeographic.png 1_0_1_D_4_85_FFFF0000_0_0_0.png
+# National Geographic GB;Pay int
+ln -s nationalgeographic.png 1_0_1_CFD8_2712_F001_FFFF0000_0_0_0.png
 # National Geographic HD;HD
 ln -s nationalgeographichd.png 1_0_19_5756_EB_A018_FFFF0000_0_0_0.png
+# NatGeo HD;Sky
+ln -s nationalgeographichd.png 1_0_19_70_D_85_FFFF0000_0_0_0.png
 # NDR FS HH;ARD
 ln -s ndr.png 1_0_1_6E41_431_A401_FFFF0000_0_0_0.png
 # NDR FS MV;ARD
@@ -570,10 +578,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Mohajer;Bonus] 1_0_1_5761_EC_A018_FFFF0000_0_0_0.png
 # ln -s [myZen.tv HD;HD] 1_0_19_5624_DA_A018_FFFF0000_0_0_0.png
 # ln -s [Nashe Kino;Pay int] 1_0_1_CFD2_2711_F001_FFFF0000_0_0_0.png
-# ln -s [NatGeo HD;Sky] 1_0_19_70_D_85_FFFF0000_0_0_0.png
-# ln -s [National Geographic;Pay deutsch] 1_0_1_C614_2712_F001_FFFF0000_0_0_0.png
-# ln -s [National Geographic;Sky] 1_0_1_D_4_85_FFFF0000_0_0_0.png
-# ln -s [National Geographic GB;Pay int] 1_0_1_CFD8_2712_F001_FFFF0000_0_0_0.png
 # ln -s [Pink Extra;Pay int] 1_0_1_5655_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pink Film;Pay int] 1_0_1_5659_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pink FOLK;Pay int] 1_0_1_565A_DD_A018_FFFF0000_0_0_0.png
