@@ -322,6 +322,8 @@ ln -s arirangtv.png 1_0_1_571C_E9_A018_FFFF0000_0_0_0.png
 ln -s bayerischesfernsehen.png 1_0_1_6DCE_44D_A401_FFFF0000_0_0_0.png
 # Bayerisches FS S?;ARD
 ln -s bayerischesfernsehen.png 1_0_1_6DCB_44D_A401_FFFF0000_0_0_0.png
+# Bon Gusto HD;HD
+ln -s bongustohd.png 1_0_19_5666_DD_A018_FFFF0000_0_0_0.png
 # Boomerang GB;Pay int
 ln -s boomerang.png 1_0_1_D09F_2714_F001_FFFF0000_0_0_0.png
 # BR-alpha;ARD
@@ -390,6 +392,8 @@ ln -s mdr.png 1_0_1_6E46_431_A401_FFFF0000_0_0_0.png
 ln -s mtvhits.png 1_0_1_CF79_2712_F001_FFFF0000_0_0_0.png
 # MTV Music 24;Pay int
 ln -s mtvmusic.png 1_0_1_5632_DB_A018_FFFF0000_0_0_0.png
+# myZen.tv HD;HD
+ln -s myzentvhd.png 1_0_19_5624_DA_A018_FFFF0000_0_0_0.png
 # National Geographic;Pay deutsch
 ln -s nationalgeographic.png 1_0_1_C614_2712_F001_FFFF0000_0_0_0.png
 # National Geographic;Sky
@@ -542,7 +546,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Balkanika;Bonus] 1_0_1_5773_ED_A018_FFFF0000_0_0_0.png
 # ln -s [BiB;Bonus] 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
 # ln -s [BN TV;Bonus] 1_0_1_5734_EA_A018_FFFF0000_0_0_0.png
-# ln -s [Bon Gusto HD;HD] 1_0_19_5666_DD_A018_FFFF0000_0_0_0.png
 # ln -s [BW eins Landtagskanal;Frei regional] 1_0_1_57A0_D7_A018_FFFF0000_0_0_0.png
 # ln -s [bw family;Frei regional] 1_0_1_56AA_E3_A018_FFFF0000_0_0_0.png
 # ln -s [CamDeputati;Bonus] 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
@@ -576,7 +579,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Mediaset;Pay int] 1_0_1_D10C_2714_F001_FFFF0000_0_0_0.png
 # ln -s [MMC Mezopotamia;Bonus] 1_0_1_576C_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Mohajer;Bonus] 1_0_1_5761_EC_A018_FFFF0000_0_0_0.png
-# ln -s [myZen.tv HD;HD] 1_0_19_5624_DA_A018_FFFF0000_0_0_0.png
 # ln -s [Nashe Kino;Pay int] 1_0_1_CFD2_2711_F001_FFFF0000_0_0_0.png
 # ln -s [Pink Extra;Pay int] 1_0_1_5655_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pink Film;Pay int] 1_0_1_5659_DD_A018_FFFF0000_0_0_0.png
