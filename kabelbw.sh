@@ -320,7 +320,7 @@ ln -s anixe.png 1_0_1_5696_E2_A018_FFFF0000_0_0_0.png
 ln -s arirangtv.png 1_0_1_571C_E9_A018_FFFF0000_0_0_0.png
 # Bayerisches FS Nord;ARD
 ln -s bayerischesfernsehen.png 1_0_1_6DCE_44D_A401_FFFF0000_0_0_0.png
-# Bayerisches FS S?;ARD
+# Bayerisches FS Süd;ARD
 ln -s bayerischesfernsehen.png 1_0_1_6DCB_44D_A401_FFFF0000_0_0_0.png
 # Bon Gusto HD;HD
 ln -s bongustohd.png 1_0_19_5666_DD_A018_FFFF0000_0_0_0.png
@@ -368,7 +368,7 @@ ln -s foxseries.png 1_0_1_10_1_85_FFFF0000_0_0_0.png
 ln -s france24.png 1_0_1_56FC_E7_A018_FFFF0000_0_0_0.png
 # France 24 GB;Frei int
 ln -s france24.png 1_0_1_561C_DA_A018_FFFF0000_0_0_0.png
-# France ?Bonus
+# France Ô;Bonus
 ln -s franceo.png 1_0_1_5748_EB_A018_FFFF0000_0_0_0.png
 # hr-fernsehen;ARD
 ln -s hessenfernsehen.png 1_0_1_6DCC_44D_A401_FFFF0000_0_0_0.png
@@ -388,7 +388,7 @@ ln -s mbc.png 1_0_1_571B_E8_A018_FFFF0000_0_0_0.png
 ln -s mdr.png 1_0_1_6E45_431_A401_FFFF0000_0_0_0.png
 # MDR Sachsen;ARD
 ln -s mdr.png 1_0_1_6E44_431_A401_FFFF0000_0_0_0.png
-# MDR Th?ingen;ARD
+# MDR Thüringen;ARD
 ln -s mdr.png 1_0_1_6E46_431_A401_FFFF0000_0_0_0.png
 # MTV HITS GB;Pay int
 ln -s mtvhits.png 1_0_1_CF79_2712_F001_FFFF0000_0_0_0.png
@@ -524,7 +524,7 @@ ln -s tntserie.png 1_0_1_D048_2715_F001_FFFF0000_0_0_0.png
 ln -s tvei.png 1_0_1_D104_2711_F001_FFFF0000_0_0_0.png
 # VH1 Classic GB;Pay int
 ln -s vh1classic.png 1_0_1_CF7B_2715_F001_FFFF0000_0_0_0.png
-# WDR K?n;ARD
+# WDR Köln;ARD
 ln -s wdr.png 1_0_1_6DCF_44D_A401_FFFF0000_0_0_0.png
 # Wetter Fernsehen;Pay deutsch
 ln -s deutscheswetterfernsehen.png 1_0_1_C3BD_2713_F001_FFFF0000_0_0_0.png
@@ -563,7 +563,7 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [EURO D;Pay int] 1_0_1_CFD5_2711_F001_FFFF0000_0_0_0.png
 # ln -s [EURO STAR;Pay int] 1_0_1_CFDA_2711_F001_FFFF0000_0_0_0.png
 # ln -s [glitz*;Frei deutsch] 1_0_1_5608_D9_A018_FFFF0000_0_0_0.png
-# ln -s [HABERT?K;Bonus] 1_0_1_5771_ED_A018_FFFF0000_0_0_0.png
+# ln -s [HABERTÜRK;Bonus] 1_0_1_5771_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Hayat TV;Pay int] 1_0_1_5658_DD_A018_FFFF0000_0_0_0.png
 # ln -s [HD Campus TV;HD] 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 # ln -s [HRT TV1;Bonus] 1_0_1_5775_ED_A018_FFFF0000_0_0_0.png
@@ -589,7 +589,7 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Pink Music;Pay int] 1_0_1_5657_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pink Plus;Pay int] 1_0_1_5654_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pokerchannel;Pay int] 1_0_1_5635_DB_A018_FFFF0000_0_0_0.png
-# ln -s [Powert?k;Bonus] 1_0_1_5759_EC_A018_FFFF0000_0_0_0.png
+# ln -s [Powertürk;Bonus] 1_0_1_5759_EC_A018_FFFF0000_0_0_0.png
 # ln -s [Pro TV International;Bonus] 1_0_1_5763_EC_A018_FFFF0000_0_0_0.png
 # ln -s [Record TV;Bonus] 1_0_1_5730_EA_A018_FFFF0000_0_0_0.png
 # ln -s [RIK Reutlingen;Frei regional] 1_0_1_579E_D7_A018_FFFF0000_0_0_0.png
@@ -611,7 +611,7 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [TELESUD;Bonus] 1_0_1_570C_E8_A018_FFFF0000_0_0_0.png
 # ln -s [Thai Global Networks;Bonus] 1_0_1_5722_E9_A018_FFFF0000_0_0_0.png
 # ln -s [The Biography Channel;Pay deutsch] 1_0_1_C619_2712_F001_FFFF0000_0_0_0.png
-# ln -s [TRT T?k;Bonus] 1_0_1_576F_ED_A018_FFFF0000_0_0_0.png
+# ln -s [TRT Türk;Bonus] 1_0_1_576F_ED_A018_FFFF0000_0_0_0.png
 # ln -s [TV Chile Nordic;Bonus] 1_0_1_573C_EA_A018_FFFF0000_0_0_0.png
 # ln -s [TV Silesia;Pay int] 1_0_1_5610_D9_A018_FFFF0000_0_0_0.png
 # ln -s [TV Tunisia 1;Bonus] 1_0_1_5790_EE_A018_FFFF0000_0_0_0.png
