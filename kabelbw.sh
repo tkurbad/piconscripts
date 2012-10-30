@@ -328,6 +328,8 @@ ln -s bongustohd.png 1_0_19_5666_DD_A018_FFFF0000_0_0_0.png
 ln -s boomerang.png 1_0_1_D09F_2714_F001_FFFF0000_0_0_0.png
 # BR-alpha;ARD
 ln -s bralpha.png 1_0_1_6F47_41B_A401_FFFF0000_0_0_0.png
+# [BW eins Landtagskanal;Frei regional
+ln -s bweins.png 1_0_1_57A0_D7_A018_FFFF0000_0_0_0.png
 # bw family;Frei regional
 ln -s bwfamily.png 1_0_1_56AA_E3_A018_FFFF0000_0_0_0.png
 # Cartoon Network GB;Pay int
@@ -552,7 +554,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Balkanika;Bonus] 1_0_1_5773_ED_A018_FFFF0000_0_0_0.png
 # ln -s [BiB;Bonus] 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
 # ln -s [BN TV;Bonus] 1_0_1_5734_EA_A018_FFFF0000_0_0_0.png
-# ln -s [BW eins Landtagskanal;Frei regional] 1_0_1_57A0_D7_A018_FFFF0000_0_0_0.png
 # ln -s [CamDeputati;Bonus] 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
 # ln -s [Channel1 RUS;Pay int] 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
 # ln -s [CMC;Bonus] 1_0_1_5776_ED_A018_FFFF0000_0_0_0.png
