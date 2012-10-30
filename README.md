@@ -15,7 +15,7 @@ A collection of scripts related to @ocram's picons
 
   ```python2 piconlinks.py -h```
 
-  '''Important note:''' Your `channels.conf` should be created
+  **Important note:** Your `channels.conf` should be created
   by the [w_scan](http://wirbel.htpc-forum.de/w_scan/index2.html)
   tool or the [vdr-wirbelscan plugin](http://wirbel.htpc-forum.de/wirbelscan/index2.html).
   Using a `channels.conf` created by the `scan` tool from the
