@@ -393,7 +393,7 @@ ln -s im1.png 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
 # kabel1 classics;Pay deutsch
 ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
 # KBW Test HD;KabelBW
-ln -s unitymedia-kabelbw.png 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
+ln -s kabelbw.png 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
 # KINOWELT;Pay deutsch
 ln -s kinowelttv.png 1_0_1_C3BC_2713_F001_FFFF0000_0_0_0.png
 # KTV;Pay int
@@ -561,7 +561,7 @@ ln -s tvei.png 1_0_1_D104_2711_F001_FFFF0000_0_0_0.png
 # VH1 Classic GB;Pay int
 ln -s vh1classic.png 1_0_1_CF7B_2715_F001_FFFF0000_0_0_0.png
 # Videothek;Frei deutsch
-ln -s unitymedia-kabelbw.png 1_0_1_5623_DA_A018_FFFF0000_0_0_0.png
+ln -s kabelbwvideothek.png 1_0_1_5623_DA_A018_FFFF0000_0_0_0.png
 # WDR Köln;ARD
 ln -s wdr.png 1_0_1_6DCF_44D_A401_FFFF0000_0_0_0.png
 # Wetter Fernsehen;Pay deutsch
