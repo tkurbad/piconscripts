@@ -392,6 +392,8 @@ ln -s hessenfernsehen.png 1_0_1_6DCC_44D_A401_FFFF0000_0_0_0.png
 ln -s im1.png 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
 # kabel1 classics;Pay deutsch
 ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
+# KBW Test HD;KabelBW
+ln -s unitymedia-kabelbw.png 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
 # KINOWELT;Pay deutsch
 ln -s kinowelttv.png 1_0_1_C3BC_2713_F001_FFFF0000_0_0_0.png
 # KTV;Pay int
@@ -558,6 +560,8 @@ ln -s tvsilesia.png 1_0_1_5610_D9_A018_FFFF0000_0_0_0.png
 ln -s tvei.png 1_0_1_D104_2711_F001_FFFF0000_0_0_0.png
 # VH1 Classic GB;Pay int
 ln -s vh1classic.png 1_0_1_CF7B_2715_F001_FFFF0000_0_0_0.png
+# Videothek;Frei deutsch
+ln -s unitymedia-kabelbw.png 1_0_1_5623_DA_A018_FFFF0000_0_0_0.png
 # WDR Köln;ARD
 ln -s wdr.png 1_0_1_6DCF_44D_A401_FFFF0000_0_0_0.png
 # Wetter Fernsehen;Pay deutsch
@@ -599,7 +603,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Kapital Network;Pay int] 1_0_1_576D_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Karaoke TV;Pay int] 1_0_1_5634_DB_A018_FFFF0000_0_0_0.png
 # ln -s [KBS WORLD;Bonus] 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
-# ln -s [KBW Test HD;KabelBW] 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
 # ln -s [Khabar TV;Bonus] 1_0_1_5758_EC_A018_FFFF0000_0_0_0.png
 # ln -s [LIG TV 2;Pay int] 1_0_1_D10B_2711_F001_FFFF0000_0_0_0.png
 # ln -s [Lust Pur;Pay deutsch] 1_0_1_C613_2712_F001_FFFF0000_0_0_0.png
@@ -631,4 +634,3 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [The Biography Channel;Pay deutsch] 1_0_1_C619_2712_F001_FFFF0000_0_0_0.png
 # ln -s [TV Chile Nordic;Bonus] 1_0_1_573C_EA_A018_FFFF0000_0_0_0.png
 # ln -s [TV Tunisia 1;Bonus] 1_0_1_5790_EE_A018_FFFF0000_0_0_0.png
-# ln -s [Videothek;Frei deutsch] 1_0_1_5623_DA_A018_FFFF0000_0_0_0.png
