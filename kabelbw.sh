@@ -236,6 +236,8 @@ ln -s sf1.png 1_0_1_56F7_E7_A018_FFFF0000_0_0_0.png
 ln -s sf2.png 1_0_1_56F8_E7_A018_FFFF0000_0_0_0.png
 # Silverline;Pay deutsch
 ln -s silverline.png 1_0_1_C481_2715_F001_FFFF0000_0_0_0.png
+# sixx;Frei deutsch
+ln -s sixx.png 1_0_1_5611_D9_A018_FFFF0000_0_0_0.png
 # sixx;Pro7 & Sat.1
 ln -s sixx.png 1_0_1_4460_453_A018_FFFF0000_0_0_0.png
 # sixx HD;HD
