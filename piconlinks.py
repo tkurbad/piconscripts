@@ -35,11 +35,12 @@ class Channels(object):
             # leading and trailing whitespace (if any)
             channelSplit = [x.strip() for x in channelLine.split(':')]
 
-            # Add to channels dict.
+            # Add to channels list.
             # Skip '(null)' provider name (Data channels, ...)
             if ((channelSplit[0] is not None)
                 and (len(channelSplit) == 13) and channelSplit[0]
-		and (';' in channelSplit[0]) and not (channelSplit[0].split(';')[1] == '(null)')):
+                and (';' in channelSplit[0])
+                and not (channelSplit[0].split(';')[1] == '(null)')):
                 self.channels.append((channelSplit[0], channelSplit[1:],))
 
     def simplenames(self):
