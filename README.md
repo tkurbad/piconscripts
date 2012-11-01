@@ -27,3 +27,5 @@ A collection of scripts related to @ocram's picons
   Look at the `"# unmatched channels"` section, if you
   care to conribute missing picons to
   https://github.com/ocram/picons.
+
+* `channelsdiff.py`

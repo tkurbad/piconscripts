@@ -451,9 +451,9 @@ ln -s pokerchannel.png 1_0_1_5635_DB_A018_FFFF0000_0_0_0.png
 # Powertürk;Bonus
 ln -s powerturktv.png 1_0_1_5759_EC_A018_FFFF0000_0_0_0.png
 # ProSieben;Pro7 & Sat.1
-ln -s pro7.png 1_0_1_445D_453_A018_FFFF0000_0_0_0.png
+ln -s prosieben.png 1_0_1_445D_453_A018_FFFF0000_0_0_0.png
 # ProSieben HD;HD
-ln -s pro7hd.png 1_0_19_EF75_3F9_1_FFFF0000_0_0_0.png
+ln -s prosiebenhd.png 1_0_19_EF75_3F9_1_FFFF0000_0_0_0.png
 # QVC Deutschland;Frei deutsch
 ln -s qvc.png 1_0_1_55F4_D8_A018_FFFF0000_0_0_0.png
 # Rai News 24;Pay int
@@ -557,7 +557,7 @@ ln -s trtturk.png 1_0_1_576F_ED_A018_FFFF0000_0_0_0.png
 # TV Silesia;Pay int
 ln -s tvsilesia.png 1_0_1_5610_D9_A018_FFFF0000_0_0_0.png
 # TVE Internacional;Pay int
-ln -s tvei.png 1_0_1_D104_2711_F001_FFFF0000_0_0_0.png
+ln -s tveinternacional.png 1_0_1_D104_2711_F001_FFFF0000_0_0_0.png
 # VH1 Classic GB;Pay int
 ln -s vh1classic.png 1_0_1_CF7B_2715_F001_FFFF0000_0_0_0.png
 # Videothek;Frei deutsch
