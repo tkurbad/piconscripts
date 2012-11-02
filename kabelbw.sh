@@ -566,6 +566,10 @@ ln -s skysportde.png 1_0_1_14D_11_85_FFFF0000_0_0_0.png
 ln -s swr.png 1_0_1_6DD1_44D_A401_FFFF0000_0_0_0.png
 # SWR Fernsehen RP;ARD
 ln -s swr.png 1_0_1_6E47_431_A401_FFFF0000_0_0_0.png
+# SyFy;Pay deutsch
+ln -s syfyuniversal.png 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
+# SyFy;Sky
+ln -s syfyuniversal.png 1_0_1_24_11_85_FFFF0000_0_0_0.png
 # TELESUD;Bonus
 ln -s telesud.png 1_0_1_570C_E8_A018_FFFF0000_0_0_0.png
 # Thai Global Networks;Bonus
@@ -641,8 +645,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [SAMANYOLU TV;Bonus] 1_0_1_5772_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Show Turk;Pay int] 1_0_1_D0FD_70_F001_FFFF0000_0_0_0.png
 # ln -s [Sparda Welt;KBW] 1_0_1_56D9_E5_A018_FFFF0000_0_0_0.png
-# ln -s [SyFy;Pay deutsch] 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
-# ln -s [SyFy;Sky] 1_0_1_24_11_85_FFFF0000_0_0_0.png
 # ln -s [The Biography Channel;Pay deutsch] 1_0_1_C619_2712_F001_FFFF0000_0_0_0.png
 # ln -s [TV Chile Nordic;Bonus] 1_0_1_573C_EA_A018_FFFF0000_0_0_0.png
 # ln -s [TV Tunisia 1;Bonus] 1_0_1_5790_EE_A018_FFFF0000_0_0_0.png
