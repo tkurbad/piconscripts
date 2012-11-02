@@ -346,6 +346,8 @@ ln -s bweins.png 1_0_1_57A0_D7_A018_FFFF0000_0_0_0.png
 ln -s bwfamily.png 1_0_1_56AA_E3_A018_FFFF0000_0_0_0.png
 # Cartoon Network GB;Pay int
 ln -s cartoonnetwork.png 1_0_1_C612_2712_F001_FFFF0000_0_0_0.png
+# Channel1 RUS;Pay int
+ln -s channel1rus.png 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
 # Classica HD;HD
 ln -s unitelclassicahd.png 1_0_19_56B0_E3_A018_FFFF0000_0_0_0.png
 # CNBC Europe GB;Pay int
@@ -556,6 +558,8 @@ ln -s skysportnewshdde.png 1_0_19_6C_C_85_FFFF0000_0_0_0.png
 ln -s sonlifetv.png 1_0_1_561E_DA_A018_FFFF0000_0_0_0.png
 # Souvenirs;Frei regional
 ln -s souvenirsfromearthtv.png 1_0_1_56E0_E6_A018_FFFF0000_0_0_0.png
+# Sparda Welt;KBW
+ln -s spardawelt.png 1_0_1_56D9_E5_A018_FFFF0000_0_0_0.png
 # Spiegel TV Wissen;Pay deutsch
 ln -s spiegeltvwissen.png 1_0_1_D099_2712_F001_FFFF0000_0_0_0.png
 # Sport1 +;Pay deutsch
@@ -613,7 +617,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [AXN ActionGB;Pay int] 1_0_1_D09A_2715_F001_FFFF0000_0_0_0.png
 # ln -s [BiB;Bonus] 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
 # ln -s [CamDeputati;Bonus] 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
-# ln -s [Channel1 RUS;Pay int] 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
 # ln -s [CMC;Bonus] 1_0_1_5776_ED_A018_FFFF0000_0_0_0.png
 # ln -s [DM SAT;Bonus] 1_0_1_5774_ED_A018_FFFF0000_0_0_0.png
 # ln -s [DUNA;Bonus] 1_0_1_5781_EE_A018_FFFF0000_0_0_0.png
@@ -646,7 +649,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [RTV21;Pay int] 1_0_1_568E_E1_A018_FFFF0000_0_0_0.png
 # ln -s [SAMANYOLU TV;Bonus] 1_0_1_5772_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Show Turk;Pay int] 1_0_1_D0FD_70_F001_FFFF0000_0_0_0.png
-# ln -s [Sparda Welt;KBW] 1_0_1_56D9_E5_A018_FFFF0000_0_0_0.png
 # ln -s [The Biography Channel;Pay deutsch] 1_0_1_C619_2712_F001_FFFF0000_0_0_0.png
 # ln -s [TV Chile Nordic;Bonus] 1_0_1_573C_EA_A018_FFFF0000_0_0_0.png
 # ln -s [TV Tunisia 1;Bonus] 1_0_1_5790_EE_A018_FFFF0000_0_0_0.png
