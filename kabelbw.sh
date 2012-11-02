@@ -332,6 +332,8 @@ ln -s balkanikamusictelevision.png 1_0_1_5773_ED_A018_FFFF0000_0_0_0.png
 ln -s bayerischesfernsehen.png 1_0_1_6DCE_44D_A401_FFFF0000_0_0_0.png
 # Bayerisches FS Süd;ARD
 ln -s bayerischesfernsehen.png 1_0_1_6DCB_44D_A401_FFFF0000_0_0_0.png
+# BN TV;Bonus
+ln -s bntv.png 1_0_1_5734_EA_A018_FFFF0000_0_0_0.png
 # Bon Gusto HD;HD
 ln -s bongustohd.png 1_0_19_5666_DD_A018_FFFF0000_0_0_0.png
 # Boomerang GB;Pay int
@@ -392,6 +394,8 @@ ln -s france24.png 1_0_1_561C_DA_A018_FFFF0000_0_0_0.png
 ln -s franceo.png 1_0_1_5748_EB_A018_FFFF0000_0_0_0.png
 # glitz*;Frei deutsch
 ln -s glitzde.png 1_0_1_5608_D9_A018_FFFF0000_0_0_0.png
+# HABERTÜRK;Bonus
+ln -s haberturktv.png 1_0_1_5771_ED_A018_FFFF0000_0_0_0.png
 # HD Campus TV;HD
 ln -s hdcampustv.png 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 # hr-fernsehen;ARD
@@ -608,7 +612,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [AXN Action;Pay deutsch] 1_0_1_C480_2715_F001_FFFF0000_0_0_0.png
 # ln -s [AXN ActionGB;Pay int] 1_0_1_D09A_2715_F001_FFFF0000_0_0_0.png
 # ln -s [BiB;Bonus] 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
-# ln -s [BN TV;Bonus] 1_0_1_5734_EA_A018_FFFF0000_0_0_0.png
 # ln -s [CamDeputati;Bonus] 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
 # ln -s [Channel1 RUS;Pay int] 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
 # ln -s [CMC;Bonus] 1_0_1_5776_ED_A018_FFFF0000_0_0_0.png
@@ -616,7 +619,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [DUNA;Bonus] 1_0_1_5781_EE_A018_FFFF0000_0_0_0.png
 # ln -s [Duna World;Bonus] 1_0_1_5780_EE_A018_FFFF0000_0_0_0.png
 # ln -s [EURO D;Pay int] 1_0_1_CFD5_2711_F001_FFFF0000_0_0_0.png
-# ln -s [HABERTÜRK;Bonus] 1_0_1_5771_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Hayat TV;Pay int] 1_0_1_5658_DD_A018_FFFF0000_0_0_0.png
 # ln -s [HRT TV1;Bonus] 1_0_1_5775_ED_A018_FFFF0000_0_0_0.png
 # ln -s [INFO REGIO;Bonus] 1_0_1_5794_EE_A018_FFFF0000_0_0_0.png
