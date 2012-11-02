@@ -344,6 +344,8 @@ ln -s bralpha.png 1_0_1_6F47_41B_A401_FFFF0000_0_0_0.png
 ln -s bweins.png 1_0_1_57A0_D7_A018_FFFF0000_0_0_0.png
 # bw family;Frei regional
 ln -s bwfamily.png 1_0_1_56AA_E3_A018_FFFF0000_0_0_0.png
+# CamDeputati;Bonus
+ln -s cameradeideputati.png 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
 # Cartoon Network GB;Pay int
 ln -s cartoonnetwork.png 1_0_1_C612_2712_F001_FFFF0000_0_0_0.png
 # Channel1 RUS;Pay int
@@ -408,6 +410,8 @@ ln -s im1.png 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
 ln -s kabelbw.png 1_0_1_5622_DA_A018_FFFF0000_0_0_0.png
 # kabel1 classics;Pay deutsch
 ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
+# KBS WORLD;Bonus
+ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 # KBW Test HD;KabelBW
 ln -s kabelbw.png 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
 # KINOWELT;Pay deutsch
@@ -480,6 +484,8 @@ ln -s rainews.png 1_0_1_D10D_2714_F001_FFFF0000_0_0_0.png
 ln -s rbb.png 1_0_1_6E2E_431_A401_FFFF0000_0_0_0.png
 # rbb Brandenburg;ARD
 ln -s rbb.png 1_0_1_6E2D_431_A401_FFFF0000_0_0_0.png
+# Record TV;Bonus
+ln -s recordinternacional.png 1_0_1_5730_EA_A018_FFFF0000_0_0_0.png
 # RTF 1;Frei regional
 ln -s rtf1.png 1_0_1_579F_D7_A018_FFFF0000_0_0_0.png
 # RTL Television;RTL
@@ -575,9 +581,9 @@ ln -s swr.png 1_0_1_6DD1_44D_A401_FFFF0000_0_0_0.png
 # SWR Fernsehen RP;ARD
 ln -s swr.png 1_0_1_6E47_431_A401_FFFF0000_0_0_0.png
 # SyFy;Pay deutsch
-ln -s syfyuniversal.png 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
+ln -s syfy.png 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
 # SyFy;Sky
-ln -s syfyuniversal.png 1_0_1_24_11_85_FFFF0000_0_0_0.png
+ln -s syfy.png 1_0_1_24_11_85_FFFF0000_0_0_0.png
 # TELESUD;Bonus
 ln -s telesud.png 1_0_1_570C_E8_A018_FFFF0000_0_0_0.png
 # Thai Global Networks;Bonus
@@ -616,7 +622,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [AXN Action;Pay deutsch] 1_0_1_C480_2715_F001_FFFF0000_0_0_0.png
 # ln -s [AXN ActionGB;Pay int] 1_0_1_D09A_2715_F001_FFFF0000_0_0_0.png
 # ln -s [BiB;Bonus] 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
-# ln -s [CamDeputati;Bonus] 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
 # ln -s [CMC;Bonus] 1_0_1_5776_ED_A018_FFFF0000_0_0_0.png
 # ln -s [DM SAT;Bonus] 1_0_1_5774_ED_A018_FFFF0000_0_0_0.png
 # ln -s [DUNA;Bonus] 1_0_1_5781_EE_A018_FFFF0000_0_0_0.png
@@ -629,7 +634,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Kanal 7 INT;Pay int] 1_0_1_D100_70_F001_FFFF0000_0_0_0.png
 # ln -s [Kapital Network;Pay int] 1_0_1_576D_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Karaoke TV;Pay int] 1_0_1_5634_DB_A018_FFFF0000_0_0_0.png
-# ln -s [KBS WORLD;Bonus] 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 # ln -s [Khabar TV;Bonus] 1_0_1_5758_EC_A018_FFFF0000_0_0_0.png
 # ln -s [LIG TV 2;Pay int] 1_0_1_D10B_2711_F001_FFFF0000_0_0_0.png
 # ln -s [Mediaset;Pay int] 1_0_1_D10C_2714_F001_FFFF0000_0_0_0.png
@@ -642,7 +646,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Pink Music;Pay int] 1_0_1_5657_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pink Plus;Pay int] 1_0_1_5654_DD_A018_FFFF0000_0_0_0.png
 # ln -s [Pro TV International;Bonus] 1_0_1_5763_EC_A018_FFFF0000_0_0_0.png
-# ln -s [Record TV;Bonus] 1_0_1_5730_EA_A018_FFFF0000_0_0_0.png
 # ln -s [RIK Reutlingen;Frei regional] 1_0_1_579E_D7_A018_FFFF0000_0_0_0.png
 # ln -s [RTCG Sat;Pay deutsch] 1_0_1_5744_EA_A018_FFFF0000_0_0_0.png
 # ln -s [RTK1;Pay int] 1_0_1_5686_E1_A018_FFFF0000_0_0_0.png
