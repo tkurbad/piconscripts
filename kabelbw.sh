@@ -388,6 +388,8 @@ ln -s france24.png 1_0_1_561C_DA_A018_FFFF0000_0_0_0.png
 ln -s franceo.png 1_0_1_5748_EB_A018_FFFF0000_0_0_0.png
 # glitz*;Frei deutsch
 ln -s glitzde.png 1_0_1_5608_D9_A018_FFFF0000_0_0_0.png
+# HD Campus TV;HD
+ln -s hdcampustv.png 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 # hr-fernsehen;ARD
 ln -s hessenfernsehen.png 1_0_1_6DCC_44D_A401_FFFF0000_0_0_0.png
 # iM1;Frei deutsch
@@ -600,7 +602,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [EURO D;Pay int] 1_0_1_CFD5_2711_F001_FFFF0000_0_0_0.png
 # ln -s [HABERTÜRK;Bonus] 1_0_1_5771_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Hayat TV;Pay int] 1_0_1_5658_DD_A018_FFFF0000_0_0_0.png
-# ln -s [HD Campus TV;HD] 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 # ln -s [HRT TV1;Bonus] 1_0_1_5775_ED_A018_FFFF0000_0_0_0.png
 # ln -s [INFO REGIO;Bonus] 1_0_1_5794_EE_A018_FFFF0000_0_0_0.png
 # ln -s [itvn;Pay int] 1_0_1_CF72_70_F001_FFFF0000_0_0_0.png
