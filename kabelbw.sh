@@ -540,6 +540,8 @@ ln -s skysporthdextrade.png 1_0_19_69_C_85_FFFF0000_0_0_0.png
 ln -s skysportnewsde.png 1_0_1_F1_3_85_FFFF0000_0_0_0.png
 # Sky Sport News HD;Sky
 ln -s skysportnewshdde.png 1_0_19_6C_C_85_FFFF0000_0_0_0.png
+# SonLife;KBW
+ln -s sonlifetv.png 1_0_1_561E_DA_A018_FFFF0000_0_0_0.png
 # Spiegel TV Wissen;Pay deutsch
 ln -s spiegeltvwissen.png 1_0_1_D099_2712_F001_FFFF0000_0_0_0.png
 # Sport1 +;Pay deutsch
@@ -626,7 +628,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [RTV21;Pay int] 1_0_1_568E_E1_A018_FFFF0000_0_0_0.png
 # ln -s [SAMANYOLU TV;Bonus] 1_0_1_5772_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Show Turk;Pay int] 1_0_1_D0FD_70_F001_FFFF0000_0_0_0.png
-# ln -s [SonLife;KBW] 1_0_1_561E_DA_A018_FFFF0000_0_0_0.png
 # ln -s [Souvenirs;Frei regional] 1_0_1_56E0_E6_A018_FFFF0000_0_0_0.png
 # ln -s [Sparda Welt;KBW] 1_0_1_56D9_E5_A018_FFFF0000_0_0_0.png
 # ln -s [Sport 3;Sky] 1_0_1_FD_2_85_FFFF0000_0_0_0.png
