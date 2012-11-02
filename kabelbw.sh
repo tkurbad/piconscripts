@@ -392,6 +392,8 @@ ln -s glitzde.png 1_0_1_5608_D9_A018_FFFF0000_0_0_0.png
 ln -s hessenfernsehen.png 1_0_1_6DCC_44D_A401_FFFF0000_0_0_0.png
 # iM1;Frei deutsch
 ln -s im1.png 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
+# Info KabelBW;Frei deutsch
+ln -s kabelbw.png 1_0_1_5622_DA_A018_FFFF0000_0_0_0.png
 # kabel1 classics;Pay deutsch
 ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
 # KBW Test HD;KabelBW
@@ -598,7 +600,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [Hayat TV;Pay int] 1_0_1_5658_DD_A018_FFFF0000_0_0_0.png
 # ln -s [HD Campus TV;HD] 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 # ln -s [HRT TV1;Bonus] 1_0_1_5775_ED_A018_FFFF0000_0_0_0.png
-# ln -s [Info KabelBW;Frei deutsch] 1_0_1_5622_DA_A018_FFFF0000_0_0_0.png
 # ln -s [INFO REGIO;Bonus] 1_0_1_5794_EE_A018_FFFF0000_0_0_0.png
 # ln -s [itvn;Pay int] 1_0_1_CF72_70_F001_FFFF0000_0_0_0.png
 # ln -s [Kanal 7 INT;Pay int] 1_0_1_D100_70_F001_FFFF0000_0_0_0.png
