@@ -556,6 +556,10 @@ ln -s spiegeltvwissen.png 1_0_1_D099_2712_F001_FFFF0000_0_0_0.png
 ln -s sport1plusde.png 1_0_1_572D_E9_A018_FFFF0000_0_0_0.png
 # Sport1+ HD;HD
 ln -s sport1plushdde.png 1_0_19_56C5_E4_A018_FFFF0000_0_0_0.png
+# Sport 3;Sky
+ln -s skysportde.png 1_0_1_FD_2_85_FFFF0000_0_0_0.png
+# Sport 4;Sky
+ln -s skysportde.png 1_0_1_14D_11_85_FFFF0000_0_0_0.png
 # SWR Fernsehen BW;ARD
 ln -s swr.png 1_0_1_6DD1_44D_A401_FFFF0000_0_0_0.png
 # SWR Fernsehen RP;ARD
@@ -636,8 +640,6 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 # ln -s [SAMANYOLU TV;Bonus] 1_0_1_5772_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Show Turk;Pay int] 1_0_1_D0FD_70_F001_FFFF0000_0_0_0.png
 # ln -s [Sparda Welt;KBW] 1_0_1_56D9_E5_A018_FFFF0000_0_0_0.png
-# ln -s [Sport 3;Sky] 1_0_1_FD_2_85_FFFF0000_0_0_0.png
-# ln -s [Sport 4;Sky] 1_0_1_14D_11_85_FFFF0000_0_0_0.png
 # ln -s [SyFy;Pay deutsch] 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
 # ln -s [SyFy;Sky] 1_0_1_24_11_85_FFFF0000_0_0_0.png
 # ln -s [The Biography Channel;Pay deutsch] 1_0_1_C619_2712_F001_FFFF0000_0_0_0.png
