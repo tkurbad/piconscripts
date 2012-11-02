@@ -311,7 +311,7 @@ ln -s zing.png 1_0_1_5769_EC_A018_FFFF0000_0_0_0.png
 
 # manually matched channels:
 # 13th Street Universal;Pay deutsch
-ln -s 13thstreetuniversal.png 1_0_1_C3BB_2715_F001_FFFF0000_0_0_0.png
+ln -s 13thstreet.png 1_0_1_C3BB_2715_F001_FFFF0000_0_0_0.png
 # AJ Children;Bonus
 ln -s aljazeerachildren.png 1_0_1_5724_E9_A018_FFFF0000_0_0_0.png
 # Al Auola Inter;Bonus
