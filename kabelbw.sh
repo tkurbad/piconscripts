@@ -310,6 +310,8 @@ ln -s zdfinfo.png 1_0_1_6D6B_437_1_FFFF0000_0_0_0.png
 ln -s zing.png 1_0_1_5769_EC_A018_FFFF0000_0_0_0.png
 
 # manually matched channels:
+# 13th Street Universal;Pay deutsch
+ln -s 13thstreetuniversal.png 1_0_1_C3BB_2715_F001_FFFF0000_0_0_0.png
 # AJ Children;Bonus
 ln -s aljazeerachildren.png 1_0_1_5724_E9_A018_FFFF0000_0_0_0.png
 # Al Auola Inter;Bonus
@@ -596,7 +598,6 @@ ln -s zdfkultur.png 1_0_1_6D70_437_1_FFFF0000_0_0_0.png
 ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 
 # unmatched channels:
-# ln -s [13th Street Universal;Pay deutsch] 1_0_1_C3BB_2715_F001_FFFF0000_0_0_0.png
 # ln -s [24Horas;Pay int] 1_0_1_D105_2711_F001_FFFF0000_0_0_0.png
 # ln -s [Albania screen RTV;Pay int] 1_0_1_563A_DB_A018_FFFF0000_0_0_0.png
 # ln -s [ams channel;Pay deutsch] 1_0_1_5638_DB_A018_FFFF0000_0_0_0.png
