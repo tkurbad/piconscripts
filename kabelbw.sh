@@ -342,6 +342,8 @@ ln -s balkanikamusictelevision.png 1_0_1_5773_ED_A018_FFFF0000_0_0_0.png
 ln -s bayerischesfernsehen.png 1_0_1_6DCE_44D_A401_FFFF0000_0_0_0.png
 # Bayerisches FS Süd;ARD
 ln -s bayerischesfernsehen.png 1_0_1_6DCB_44D_A401_FFFF0000_0_0_0.png
+# BiB;Bonus
+ln -s skybigbrotherde.png 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
 # BN TV;Bonus
 ln -s bntv.png 1_0_1_5734_EA_A018_FFFF0000_0_0_0.png
 # Bon Gusto HD;HD
@@ -690,8 +692,3 @@ ln -s yourfamily.png 1_0_1_565F_DD_A018_FFFF0000_0_0_0.png
 ln -s zdfkultur.png 1_0_1_6D70_437_1_FFFF0000_0_0_0.png
 # zdf_neo;ZDFvision
 ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
-
-
-
-# unmatched channels:
-# ln -s [BiB;Bonus] 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
