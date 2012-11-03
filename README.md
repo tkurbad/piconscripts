@@ -32,10 +32,10 @@ A collection of scripts related to @ocram's picons
   cleaned up and reordered your `channels.conf`, you'll probably love this tool.
   The output has at most four sections:
 
-1. Channel PARAMETER changes - for channels that changed frequency etc. since last scan
-2. Channel NAME changes - for channels that were replaced by others
-3. Channels that are NO LONGER found
-4. NEW Channels
+  1. Channel PARAMETER changes - for channels that changed frequency etc. since last scan
+  2. Channel NAME changes - for channels that were replaced by others
+  3. Channels that are NO LONGER found
+  4. NEW Channels
 
   For usage instructions, see:
 
