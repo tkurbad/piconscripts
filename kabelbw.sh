@@ -442,6 +442,8 @@ ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
 ln -s kanal7avrupa.png 1_0_1_D100_70_F001_FFFF0000_0_0_0.png
 # Kapital Network;Pay int
 ln -s kapitalnetwork.png 1_0_1_576D_ED_A018_FFFF0000_0_0_0.png
+# Karaoke TV;Pay int
+ln -s karaokechannel.png 1_0_1_5634_DB_A018_FFFF0000_0_0_0.png
 # KBS WORLD;Bonus
 ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 # KBW Test HD;KabelBW
@@ -693,4 +695,3 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 
 # unmatched channels:
 # ln -s [BiB;Bonus] 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
-# ln -s [Karaoke TV;Pay int] 1_0_1_5634_DB_A018_FFFF0000_0_0_0.png
