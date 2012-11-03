@@ -320,6 +320,8 @@ ln -s aljazeerachildren.png 1_0_1_5724_E9_A018_FFFF0000_0_0_0.png
 ln -s alaoulainter.png 1_0_1_5768_EC_A018_FFFF0000_0_0_0.png
 # Al JazeeraGB;Frei int
 ln -s aljazeera.png 1_0_1_561B_DA_A018_FFFF0000_0_0_0.png
+# Albania screen RTV;Pay int
+ln -s albanianscreen.png 1_0_1_563A_DB_A018_FFFF0000_0_0_0.png
 # ams channel;Pay deutsch
 ln -s automotorsport.png 1_0_1_5638_DB_A018_FFFF0000_0_0_0.png
 # ANIXE SD;Frei deutsch
@@ -390,6 +392,8 @@ ln -s espnamerica.png 1_0_1_CF71_2715_F001_FFFF0000_0_0_0.png
 ln -s espnclassic.png 1_0_1_D09D_2715_F001_FFFF0000_0_0_0.png
 # ETNO TV;Bonus
 ln -s etnotv.png 1_0_1_5731_EA_A018_FFFF0000_0_0_0.png
+# EURO D;Pay int
+ln -s kanald.png 1_0_1_CFD5_2711_F001_FFFF0000_0_0_0.png
 # EURO STAR;Pay int
 ln -s eurostar.png 1_0_1_CFDA_2711_F001_FFFF0000_0_0_0.png
 # euronews E;Pay int
@@ -436,16 +440,22 @@ ln -s itvn.png 1_0_1_CF72_70_F001_FFFF0000_0_0_0.png
 ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
 # Kanal 7 INT;Pay int
 ln -s kanal7avrupa.png 1_0_1_D100_70_F001_FFFF0000_0_0_0.png
+# Kapital Network;Pay int
+ln -s kapitalnetwork.png 1_0_1_576D_ED_A018_FFFF0000_0_0_0.png
 # KBS WORLD;Bonus
 ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 # KBW Test HD;KabelBW
 ln -s kabelbw.png 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
+# Khabar TV;Bonus
+ln -s khabartv.png 1_0_1_5758_EC_A018_FFFF0000_0_0_0.png
 # KINOWELT;Pay deutsch
 ln -s kinowelttv.png 1_0_1_C3BC_2713_F001_FFFF0000_0_0_0.png
 # KTV;Pay int
 ln -s k-tv.png 1_0_1_568F_E1_A018_FFFF0000_0_0_0.png
 # LiG TV;Pay int
 ln -s ligtv.png 1_0_1_D106_70_F001_FFFF0000_0_0_0.png
+# LIG TV 2;Pay int
+ln -s ligtv2.png 1_0_1_D10B_2711_F001_FFFF0000_0_0_0.png
 # Lust Pur;Pay deutsch
 ln -s lustpur.png 1_0_1_C613_2712_F001_FFFF0000_0_0_0.png
 # Mad TV;Pay int
@@ -460,6 +470,10 @@ ln -s mdr.png 1_0_1_6E44_431_A401_FFFF0000_0_0_0.png
 ln -s mdr.png 1_0_1_6E46_431_A401_FFFF0000_0_0_0.png
 # Mediaset;Pay int
 ln -s mediasetitalia.png 1_0_1_D10C_2714_F001_FFFF0000_0_0_0.png
+# MMC Mezopotamia;Bonus
+ln -s mmcmezopotamya.png 1_0_1_576C_ED_A018_FFFF0000_0_0_0.png
+# Mohajer;Bonus
+ln -s mohajerinternational.png 1_0_1_5761_EC_A018_FFFF0000_0_0_0.png
 # MTV HITS GB;Pay int
 ln -s mtvhits.png 1_0_1_CF79_2712_F001_FFFF0000_0_0_0.png
 # MTV Music 24;Pay int
@@ -512,6 +526,8 @@ ln -s planethdde.png 1_0_19_56D8_E5_A018_FFFF0000_0_0_0.png
 ln -s pokerchannel.png 1_0_1_5635_DB_A018_FFFF0000_0_0_0.png
 # Powertürk;Bonus
 ln -s powerturktv.png 1_0_1_5759_EC_A018_FFFF0000_0_0_0.png
+# Pro TV International;Bonus
+ln -s protvinternational.png 1_0_1_5763_EC_A018_FFFF0000_0_0_0.png
 # ProSieben;Pro7 & Sat.1
 ln -s prosieben.png 1_0_1_445D_453_A018_FFFF0000_0_0_0.png
 # ProSieben HD;HD
@@ -676,13 +692,5 @@ ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 
 
 # unmatched channels:
-# ln -s [Albania screen RTV;Pay int] 1_0_1_563A_DB_A018_FFFF0000_0_0_0.png
 # ln -s [BiB;Bonus] 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
-# ln -s [EURO D;Pay int] 1_0_1_CFD5_2711_F001_FFFF0000_0_0_0.png
-# ln -s [Kapital Network;Pay int] 1_0_1_576D_ED_A018_FFFF0000_0_0_0.png
 # ln -s [Karaoke TV;Pay int] 1_0_1_5634_DB_A018_FFFF0000_0_0_0.png
-# ln -s [Khabar TV;Bonus] 1_0_1_5758_EC_A018_FFFF0000_0_0_0.png
-# ln -s [LIG TV 2;Pay int] 1_0_1_D10B_2711_F001_FFFF0000_0_0_0.png
-# ln -s [MMC Mezopotamia;Bonus] 1_0_1_576C_ED_A018_FFFF0000_0_0_0.png
-# ln -s [Mohajer;Bonus] 1_0_1_5761_EC_A018_FFFF0000_0_0_0.png
-# ln -s [Pro TV International;Bonus] 1_0_1_5763_EC_A018_FFFF0000_0_0_0.png
