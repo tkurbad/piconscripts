@@ -433,7 +433,7 @@ ln -s hrttv1.png 1_0_1_5775_ED_A018_FFFF0000_0_0_0.png
 # iM1;Frei deutsch
 ln -s im1.png 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
 # Info KabelBW;Frei deutsch
-ln -s kabelbw.png 1_0_1_5622_DA_A018_FFFF0000_0_0_0.png
+ln -s unitymediakabelbwinfokanal.png 1_0_1_5622_DA_A018_FFFF0000_0_0_0.png
 # INFO REGIO;Bonus
 ln -s inforegiotv.png 1_0_1_5794_EE_A018_FFFF0000_0_0_0.png
 # itvn;Pay int
@@ -449,7 +449,7 @@ ln -s karaokechannel.png 1_0_1_5634_DB_A018_FFFF0000_0_0_0.png
 # KBS WORLD;Bonus
 ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 # KBW Test HD;KabelBW
-ln -s kabelbw.png 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
+ln -s unitymediakabelbwkabelbw.png 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
 # Khabar TV;Bonus
 ln -s khabartv.png 1_0_1_5758_EC_A018_FFFF0000_0_0_0.png
 # KINOWELT;Pay deutsch
@@ -679,7 +679,7 @@ ln -s tveinternacional.png 1_0_1_D104_2711_F001_FFFF0000_0_0_0.png
 # VH1 Classic GB;Pay int
 ln -s vh1classic.png 1_0_1_CF7B_2715_F001_FFFF0000_0_0_0.png
 # Videothek;Frei deutsch
-ln -s kabelbwvideothek.png 1_0_1_5623_DA_A018_FFFF0000_0_0_0.png
+ln -s unitymediakabelbwvideothek.png 1_0_1_5623_DA_A018_FFFF0000_0_0_0.png
 # WDR Köln;ARD
 ln -s wdr.png 1_0_1_6DCF_44D_A401_FFFF0000_0_0_0.png
 # Wetter Fernsehen;Pay deutsch
