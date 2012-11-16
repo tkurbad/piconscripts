@@ -112,6 +112,8 @@ ln -s eurosport2.png 1_0_1_562F_DB_A018_FFFF0000_0_0_0.png
 ln -s eurosporthd.png 1_0_19_84_B_85_FFFF0000_0_0_0.png
 # Extreme Sports;Pay deutsch
 ln -s extremesports.png 1_0_1_D0A1_2714_F001_FFFF0000_0_0_0.png
+# FOX HD;HD
+ln -s foxhd.png 1_0_19_56D7_E5_A018_FFFF0000_0_0_0.png
 # Fox HD;Sky
 ln -s foxhd.png 1_0_19_7C_6_85_FFFF0000_0_0_0.png
 # France 2;Bonus
@@ -270,6 +272,8 @@ ln -s tntfilm.png 1_0_1_C618_2712_F001_FFFF0000_0_0_0.png
 ln -s tntfilmhd.png 1_0_19_56C4_E4_A018_FFFF0000_0_0_0.png
 # TNT Serie;Sky
 ln -s tntserie.png 1_0_1_32_1_85_FFFF0000_0_0_0.png
+# TNT Serie HD;HD
+ln -s tntseriehd.png 1_0_19_56C3_E4_A018_FFFF0000_0_0_0.png
 # TNT Serie HD;Sky
 ln -s tntseriehd.png 1_0_19_7B_6_85_FFFF0000_0_0_0.png
 # Travel Channel;Pay deutsch
