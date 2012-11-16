@@ -7,7 +7,7 @@ cd $1
 # 1-2-3.tv;Frei deutsch
 ln -s 1-2-3.tv.png 1_0_1_5604_D9_A018_FFFF0000_0_0_0.png
 # 13th Street;Sky
-ln -s 13thstreet.png 1_0_1_2A_1_85_FFFF0000_0_0_0.png
+ln -s 13thstreet.png 1_0_1_2A_4_85_FFFF0000_0_0_0.png
 # 3sat;ZDFvision
 ln -s 3sat.png 1_0_1_6D67_437_1_FFFF0000_0_0_0.png
 # Al Arabiya;KabelBW
@@ -18,8 +18,6 @@ ln -s aljazeera.png 1_0_1_5784_EE_A018_FFFF0000_0_0_0.png
 ln -s animalplanet.png 1_0_1_5665_DD_A018_FFFF0000_0_0_0.png
 # Animax;Pay deutsch
 ln -s animax.png 1_0_1_D03E_2713_F001_FFFF0000_0_0_0.png
-# ANIXE HD;HD
-ln -s anixehd.png 1_0_19_560D_D9_A018_FFFF0000_0_0_0.png
 # arte;ARD
 ln -s arte.png 1_0_1_7034_41B_A401_FFFF0000_0_0_0.png
 # Astro TV;Frei deutsch
@@ -41,11 +39,11 @@ ln -s bluehustler.png 1_0_1_562C_DB_A018_FFFF0000_0_0_0.png
 # Blue Movie;Sky
 ln -s bluemovie.png 1_0_1_201_4_85_FFFF0000_0_0_0.png
 # Blue Movie 1;Sky
-ln -s bluemovie1.png 1_0_1_159_1_85_FFFF0000_0_0_0.png
+ln -s bluemovie1.png 1_0_1_159_2_85_FFFF0000_0_0_0.png
 # Blue Movie 2;Sky
-ln -s bluemovie2.png 1_0_1_163_1_85_FFFF0000_0_0_0.png
+ln -s bluemovie2.png 1_0_1_163_2_85_FFFF0000_0_0_0.png
 # Blue Movie 3;Sky
-ln -s bluemovie3.png 1_0_1_16D_1_85_FFFF0000_0_0_0.png
+ln -s bluemovie3.png 1_0_1_16D_2_85_FFFF0000_0_0_0.png
 # BonGusto;Pay deutsch
 ln -s bongusto.png 1_0_1_D036_2713_F001_FFFF0000_0_0_0.png
 # Boomerang;Pay deutsch
@@ -75,15 +73,17 @@ ln -s deluxemusic.png 1_0_1_561F_DA_A018_FFFF0000_0_0_0.png
 # Discovery HD;Sky
 ln -s discoveryhd.png 1_0_19_82_6_85_FFFF0000_0_0_0.png
 # Disney Channel;Sky
-ln -s disneychannel.png 1_0_1_22_11_85_FFFF0000_0_0_0.png
+ln -s disneychannel.png 1_0_1_22_1_85_FFFF0000_0_0_0.png
+# Disney Channel HD;Sky
+ln -s disneychannelhd.png 1_0_19_74_D_85_FFFF0000_0_0_0.png
 # Disney Cinemagic;Sky
 ln -s disneycinemagic.png 1_0_1_19_3_85_FFFF0000_0_0_0.png
 # Disney Cinemagic HD;Sky
 ln -s disneycinemagichd.png 1_0_19_6F_D_85_FFFF0000_0_0_0.png
 # Disney Junior;Sky
-ln -s disneyjunior.png 1_0_1_1A_11_85_FFFF0000_0_0_0.png
+ln -s disneyjunior.png 1_0_1_1A_1_85_FFFF0000_0_0_0.png
 # Disney XD;Sky
-ln -s disneyxd.png 1_0_1_1C_11_85_FFFF0000_0_0_0.png
+ln -s disneyxd.png 1_0_1_1C_1_85_FFFF0000_0_0_0.png
 # DMAX;Frei deutsch
 ln -s dmax.png 1_0_1_55F0_D8_A018_FFFF0000_0_0_0.png
 # DM Digital;Bonus
@@ -109,11 +109,11 @@ ln -s eurosport.png 1_0_1_55F2_D8_A018_FFFF0000_0_0_0.png
 # Eurosport 2;Pay deutsch
 ln -s eurosport2.png 1_0_1_562F_DB_A018_FFFF0000_0_0_0.png
 # Eurosport HD;Sky
-ln -s eurosporthd.png 1_0_19_84_6_85_FFFF0000_0_0_0.png
+ln -s eurosporthd.png 1_0_19_84_B_85_FFFF0000_0_0_0.png
 # Extreme Sports;Pay deutsch
 ln -s extremesports.png 1_0_1_D0A1_2714_F001_FFFF0000_0_0_0.png
-# FOX HD;HD
-ln -s foxhd.png 1_0_19_56D7_E5_A018_FFFF0000_0_0_0.png
+# Fox HD;Sky
+ln -s foxhd.png 1_0_19_7C_6_85_FFFF0000_0_0_0.png
 # France 2;Bonus
 ln -s france2.png 1_0_1_56F4_E7_A018_FFFF0000_0_0_0.png
 # France 3;Bonus
@@ -123,25 +123,23 @@ ln -s france4.png 1_0_1_5749_EB_A018_FFFF0000_0_0_0.png
 # France 5;Bonus
 ln -s france5.png 1_0_1_56F6_E7_A018_FFFF0000_0_0_0.png
 # Goldstar TV;Sky
-ln -s goldstartv.png 1_0_1_206_11_85_FFFF0000_0_0_0.png
+ln -s goldstartv.png 1_0_1_206_1_85_FFFF0000_0_0_0.png
 # gotv;Bonus
 ln -s gotv.png 1_0_1_5737_EA_A018_FFFF0000_0_0_0.png
 # Gute Laune TV;Pay deutsch
 ln -s gutelaunetv.png 1_0_1_C3BF_2713_F001_FFFF0000_0_0_0.png
 # Heimatkanal;Sky
-ln -s heimatkanal.png 1_0_1_16_11_85_FFFF0000_0_0_0.png
+ln -s heimatkanal.png 1_0_1_16_1_85_FFFF0000_0_0_0.png
 # HISTORY;Pay deutsch
 ln -s history.png 1_0_1_D035_2713_F001_FFFF0000_0_0_0.png
 # History HD;Sky
-ln -s historyhd.png 1_0_19_71_D_85_FFFF0000_0_0_0.png
+ln -s historyhd.png 1_0_19_71_B_85_FFFF0000_0_0_0.png
 # HSE 24;Frei deutsch
 ln -s hse24.png 1_0_1_55F3_D8_A018_FFFF0000_0_0_0.png
 # HSE 24 EXTRA;Frei deutsch
 ln -s hse24extra.png 1_0_1_560C_D9_A018_FFFF0000_0_0_0.png
-# Jukebox;Pay deutsch
-ln -s jukebox.png 1_0_1_CF70_2715_F001_FFFF0000_0_0_0.png
 # Junior;Sky
-ln -s junior.png 1_0_1_13_11_85_FFFF0000_0_0_0.png
+ln -s junior.png 1_0_1_13_1_85_FFFF0000_0_0_0.png
 # Juwelo TV;Frei deutsch
 ln -s juwelotv.png 1_0_1_5607_D9_A018_FFFF0000_0_0_0.png
 # K-TV;Frei deutsch
@@ -159,7 +157,7 @@ ln -s mgm.png 1_0_1_203_3_85_FFFF0000_0_0_0.png
 # Motors TV;Pay deutsch
 ln -s motorstv.png 1_0_1_C3B6_2713_F001_FFFF0000_0_0_0.png
 # Motorvision TV;Sky
-ln -s motorvisiontv.png 1_0_1_A8_1_85_FFFF0000_0_0_0.png
+ln -s motorvisiontv.png 1_0_1_A8_4_85_FFFF0000_0_0_0.png
 # MTV;Pay deutsch
 ln -s mtv.png 1_0_1_C60D_2715_F001_FFFF0000_0_0_0.png
 # MTV HITS;Pay deutsch
@@ -175,7 +173,9 @@ ln -s n24.png 1_0_1_445F_453_A018_FFFF0000_0_0_0.png
 # NatGeo Wild;Sky
 ln -s natgeowild.png 1_0_1_C_4_85_FFFF0000_0_0_0.png
 # Nat GEO Wild HD;Sky
-ln -s natgeowildhd.png 1_0_19_86_4_85_FFFF0000_0_0_0.png
+ln -s natgeowildhd.png 1_0_19_76_C_85_FFFF0000_0_0_0.png
+# Nautical Channel;Pay deutsch
+ln -s nauticalchannel.png 1_0_1_5619_DA_A018_FFFF0000_0_0_0.png
 # Nicktoons;Pay deutsch
 ln -s nicktoons.png 1_0_1_565E_DD_A018_FFFF0000_0_0_0.png
 # OCKO;Bonus
@@ -209,7 +209,9 @@ ln -s rtl2.png 1_0_1_2EF4_441_A018_FFFF0000_0_0_0.png
 # RTL2 HD;HD
 ln -s rtl2hd.png 1_0_19_567F_E0_A018_FFFF0000_0_0_0.png
 # RTL Crime;Sky
-ln -s rtlcrime.png 1_0_1_1B_1_85_FFFF0000_0_0_0.png
+ln -s rtlcrime.png 1_0_1_1B_4_85_FFFF0000_0_0_0.png
+# RTL Crime HD;HD
+ln -s rtlcrimehd.png 1_0_19_575C_EC_A018_FFFF0000_0_0_0.png
 # RTL HD;HD
 ln -s rtlhd.png 1_0_19_567C_E0_A018_FFFF0000_0_0_0.png
 # RTL Living;Pay deutsch
@@ -217,7 +219,7 @@ ln -s rtlliving.png 1_0_1_5741_EA_A018_FFFF0000_0_0_0.png
 # RTL Nitro;RTL
 ln -s rtlnitro.png 1_0_1_2F1D_441_A018_FFFF0000_0_0_0.png
 # RTL Passion;Sky
-ln -s rtlpassion.png 1_0_1_1D_1_85_FFFF0000_0_0_0.png
+ln -s rtlpassion.png 1_0_1_1D_4_85_FFFF0000_0_0_0.png
 # RTS Sat;Pay deutsch
 ln -s rtssat.png 1_0_1_5743_EA_A018_FFFF0000_0_0_0.png
 # Russia Today;Frei int
@@ -236,8 +238,6 @@ ln -s sf1.png 1_0_1_56F7_E7_A018_FFFF0000_0_0_0.png
 ln -s sf2.png 1_0_1_56F8_E7_A018_FFFF0000_0_0_0.png
 # Silverline;Pay deutsch
 ln -s silverline.png 1_0_1_C481_2715_F001_FFFF0000_0_0_0.png
-# sixx;Frei deutsch
-ln -s sixx.png 1_0_1_5611_D9_A018_FFFF0000_0_0_0.png
 # sixx;Pro7 & Sat.1
 ln -s sixx.png 1_0_1_4460_453_A018_FFFF0000_0_0_0.png
 # sixx HD;HD
@@ -270,10 +270,8 @@ ln -s tntfilm.png 1_0_1_C618_2712_F001_FFFF0000_0_0_0.png
 ln -s tntfilmhd.png 1_0_19_56C4_E4_A018_FFFF0000_0_0_0.png
 # TNT Serie;Sky
 ln -s tntserie.png 1_0_1_32_1_85_FFFF0000_0_0_0.png
-# TNT Serie HD;HD
-ln -s tntseriehd.png 1_0_19_56C3_E4_A018_FFFF0000_0_0_0.png
-# TRACE Urban;Pay deutsch
-ln -s traceurban.png 1_0_1_C3B7_2713_F001_FFFF0000_0_0_0.png
+# TNT Serie HD;Sky
+ln -s tntseriehd.png 1_0_19_7B_6_85_FFFF0000_0_0_0.png
 # Travel Channel;Pay deutsch
 ln -s travelchannel.png 1_0_1_5742_EA_A018_FFFF0000_0_0_0.png
 # Turkmax;Pay int
@@ -324,8 +322,6 @@ ln -s aljazeera.png 1_0_1_561B_DA_A018_FFFF0000_0_0_0.png
 ln -s albanianscreen.png 1_0_1_563A_DB_A018_FFFF0000_0_0_0.png
 # ams channel;Pay deutsch
 ln -s automotorsport.png 1_0_1_5638_DB_A018_FFFF0000_0_0_0.png
-# ANIXE SD;Frei deutsch
-ln -s anixe.png 1_0_1_5696_E2_A018_FFFF0000_0_0_0.png
 # Antenna 1 Europe;Pay int
 ln -s ant1europe.png 1_0_1_5689_E1_A018_FFFF0000_0_0_0.png
 # arirang;Bonus
@@ -342,8 +338,6 @@ ln -s balkanikamusictelevision.png 1_0_1_5773_ED_A018_FFFF0000_0_0_0.png
 ln -s bayerischesfernsehen.png 1_0_1_6DCE_44D_A401_FFFF0000_0_0_0.png
 # Bayerisches FS Süd;ARD
 ln -s bayerischesfernsehen.png 1_0_1_6DCB_44D_A401_FFFF0000_0_0_0.png
-# BiB;Bonus
-ln -s skybigbrotherde.png 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
 # BN TV;Bonus
 ln -s bntv.png 1_0_1_5734_EA_A018_FFFF0000_0_0_0.png
 # Bon Gusto HD;HD
@@ -362,6 +356,8 @@ ln -s cameradeideputati.png 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_C612_2712_F001_FFFF0000_0_0_0.png
 # Channel1 RUS;Pay int
 ln -s channel1rus.png 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
+# CLASSICA;Pay deutsch
+ln -s unitelclassica.png 1_0_1_563C_DB_A018_FFFF0000_0_0_0.png
 # Classica HD;HD
 ln -s unitelclassicahd.png 1_0_19_56B0_E3_A018_FFFF0000_0_0_0.png
 # CMC;Bonus
@@ -444,8 +440,6 @@ ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
 ln -s kanal7avrupa.png 1_0_1_D100_70_F001_FFFF0000_0_0_0.png
 # Kapital Network;Pay int
 ln -s kapitalnetwork.png 1_0_1_576D_ED_A018_FFFF0000_0_0_0.png
-# Karaoke TV;Pay int
-ln -s karaokechannel.png 1_0_1_5634_DB_A018_FFFF0000_0_0_0.png
 # KBS WORLD;Bonus
 ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 # KBW Test HD;KabelBW
@@ -454,6 +448,8 @@ ln -s unitymediakabelbwkabelbw.png 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
 ln -s khabartv.png 1_0_1_5758_EC_A018_FFFF0000_0_0_0.png
 # KINOWELT;Pay deutsch
 ln -s kinowelttv.png 1_0_1_C3BC_2713_F001_FFFF0000_0_0_0.png
+# KinoweltHD;HD
+ln -s kinowelttvhd.png 1_0_19_5612_D9_A018_FFFF0000_0_0_0.png
 # KTV;Pay int
 ln -s k-tv.png 1_0_1_568F_E1_A018_FFFF0000_0_0_0.png
 # LiG TV;Pay int
@@ -486,8 +482,6 @@ ln -s mtvmusic.png 1_0_1_5632_DB_A018_FFFF0000_0_0_0.png
 ln -s myzentvhd.png 1_0_19_5624_DA_A018_FFFF0000_0_0_0.png
 # Nashe Kino;Pay int
 ln -s nashekino.png 1_0_1_CFD2_2711_F001_FFFF0000_0_0_0.png
-# National Geographic;Pay deutsch
-ln -s nationalgeographic.png 1_0_1_C614_2712_F001_FFFF0000_0_0_0.png
 # National Geographic;Sky
 ln -s nationalgeographic.png 1_0_1_D_4_85_FFFF0000_0_0_0.png
 # National Geographic GB;Pay int
@@ -512,6 +506,8 @@ ln -s nickjr.png 1_0_1_C611_2715_F001_FFFF0000_0_0_0.png
 ln -s orf2.png 1_0_1_56FA_E7_A018_FFFF0000_0_0_0.png
 # PCNE Chinese;Bonus
 ln -s pcne.png 1_0_1_574D_EB_A018_FFFF0000_0_0_0.png
+# Penthouse;Pay deutsch
+ln -s penthousetv.png 1_0_1_5680_E0_A018_FFFF0000_0_0_0.png
 # Pink Extra;Pay int
 ln -s pinkextra.png 1_0_1_5655_DD_A018_FFFF0000_0_0_0.png
 # Pink Film;Pay int
@@ -532,6 +528,10 @@ ln -s pokerchannel.png 1_0_1_5635_DB_A018_FFFF0000_0_0_0.png
 ln -s powerturktv.png 1_0_1_5759_EC_A018_FFFF0000_0_0_0.png
 # Pro TV International;Bonus
 ln -s protvinternational.png 1_0_1_5763_EC_A018_FFFF0000_0_0_0.png
+# Pro7 Fun;Pay deutsch
+ln -s prosiebenfun.png 1_0_1_5698_E2_A018_FFFF0000_0_0_0.png
+# Pro7 Fun HD;HD
+ln -s prosiebenfunhd.png 1_0_19_5688_E1_A018_FFFF0000_0_0_0.png
 # ProSieben;Pro7 & Sat.1
 ln -s prosieben.png 1_0_1_445D_453_A018_FFFF0000_0_0_0.png
 # ProSieben HD;HD
@@ -568,28 +568,12 @@ ln -s rtvi.png 1_0_1_CFD1_2711_F001_FFFF0000_0_0_0.png
 ln -s samanyolutv.png 1_0_1_5772_ED_A018_FFFF0000_0_0_0.png
 # Sat.1 emotions;Pay deutsch
 ln -s sat1emotions.png 1_0_1_D0A3_2714_F001_FFFF0000_0_0_0.png
-# Select 2;Sky
-ln -s skyselectde.png 1_0_1_105_2_85_FFFF0000_0_0_0.png
-# Select 3;Sky
-ln -s skyselectde.png 1_0_1_10F_3_85_FFFF0000_0_0_0.png
-# Select 4;Sky
-ln -s skyselectde.png 1_0_1_119_3_85_FFFF0000_0_0_0.png
-# Select 5;Sky
-ln -s skyselectde.png 1_0_1_123_3_85_FFFF0000_0_0_0.png
-# Select 6;Sky
-ln -s skyselectde.png 1_0_1_12D_3_85_FFFF0000_0_0_0.png
-# Select 7;Sky
-ln -s skyselectde.png 1_0_1_137_11_85_FFFF0000_0_0_0.png
-# Select 8;Sky
-ln -s skyselectde.png 1_0_1_141_11_85_FFFF0000_0_0_0.png
 # Show Turk;Pay int
 ln -s showturk.png 1_0_1_D0FD_70_F001_FFFF0000_0_0_0.png
 # Sky 3D;Sky
-ln -s sky3dde.png 1_0_1_56E1_E6_A018_FFFF0000_0_0_0.png
+ln -s sky3dde.png 1_0_19_75_B_85_FFFF0000_0_0_0.png
 # Sky Action;Sky
 ln -s skyactionde.png 1_0_1_9_2_85_FFFF0000_0_0_0.png
-# Sky Action HD;Sky
-ln -s skyactionhdde.png 1_0_19_6A_C_85_FFFF0000_0_0_0.png
 # Sky Atlantic HD;Sky
 ln -s skyatlantichdde.png 1_0_19_6E_D_85_FFFF0000_0_0_0.png
 # Sky Bundesliga;Sky
@@ -611,15 +595,31 @@ ln -s skycinemahitsde.png 1_0_1_29_3_85_FFFF0000_0_0_0.png
 # Sky Hits HD;Sky
 ln -s skycinemahitshdde.png 1_0_19_6B_C_85_FFFF0000_0_0_0.png
 # Sky Krimi;Sky
-ln -s skykrimide.png 1_0_1_17_1_85_FFFF0000_0_0_0.png
+ln -s skykrimide.png 1_0_1_17_4_85_FFFF0000_0_0_0.png
 # Sky Nostalgie;Sky
 ln -s skynostalgiede.png 1_0_1_204_3_85_FFFF0000_0_0_0.png
 # Sky Select;Sky
 ln -s skyselectde.png 1_0_1_12_4_85_FFFF0000_0_0_0.png
+# Sky Select 1;Sky
+ln -s skyselectde.png 1_0_1_FB_2_85_FFFF0000_0_0_0.png
+# Sky Select 2;Sky
+ln -s skyselectde.png 1_0_1_105_2_85_FFFF0000_0_0_0.png
+# Sky Select 4;Sky
+ln -s skyselectde.png 1_0_1_119_3_85_FFFF0000_0_0_0.png
+# Sky Select 5;Sky
+ln -s skyselectde.png 1_0_1_123_3_85_FFFF0000_0_0_0.png
+# Sky Select 6;Sky
+ln -s skyselectde.png 1_0_1_12D_3_85_FFFF0000_0_0_0.png
+# Sky Select 7;Sky
+ln -s skyselectde.png 1_0_1_137_1_85_FFFF0000_0_0_0.png
+# Sky Select 8;Sky
+ln -s skyselectde.png 1_0_1_141_1_85_FFFF0000_0_0_0.png
+# Sky Select 9; Sky
+ln -s skyselectde.png 1_0_1_14B_1_85_FFFF0000_0_0_0.png
 # Sky Sport 1;Sky
-ln -s skysport1de.png 1_0_1_DD_4_85_FFFF0000_0_0_0.png
+ln -s skysport1de.png 1_0_1_DD_3_85_FFFF0000_0_0_0.png
 # Sky Sport 2;Sky
-ln -s skysport2de.png 1_0_1_DE_4_85_FFFF0000_0_0_0.png
+ln -s skysport2de.png 1_0_1_DE_3_85_FFFF0000_0_0_0.png
 # Sky Sport Austria;Sky
 ln -s skysportaustriade.png 1_0_1_1E_1_85_FFFF0000_0_0_0.png
 # Sky Sport HD 1;Sky
@@ -629,7 +629,7 @@ ln -s skysporthd2de.png 1_0_19_72_D_85_FFFF0000_0_0_0.png
 # Sky Sport HD Extra;Sky
 ln -s skysporthdextrade.png 1_0_19_69_C_85_FFFF0000_0_0_0.png
 # Sky Sport News;Sky
-ln -s skysportnewsde.png 1_0_1_F1_3_85_FFFF0000_0_0_0.png
+ln -s skysportnewsde.png 1_0_1_11_3_85_FFFF0000_0_0_0.png
 # Sky Sport News HD;Sky
 ln -s skysportnewshdde.png 1_0_19_6C_C_85_FFFF0000_0_0_0.png
 # SonLife;KBW
@@ -644,18 +644,12 @@ ln -s spiegeltvwissen.png 1_0_1_D099_2712_F001_FFFF0000_0_0_0.png
 ln -s sport1plusde.png 1_0_1_572D_E9_A018_FFFF0000_0_0_0.png
 # Sport1+ HD;HD
 ln -s sport1plushdde.png 1_0_19_56C5_E4_A018_FFFF0000_0_0_0.png
-# Sport 3;Sky
-ln -s skysportde.png 1_0_1_FD_2_85_FFFF0000_0_0_0.png
-# Sport 4;Sky
-ln -s skysportde.png 1_0_1_14D_11_85_FFFF0000_0_0_0.png
 # SWR Fernsehen BW;ARD
 ln -s swr.png 1_0_1_6DD1_44D_A401_FFFF0000_0_0_0.png
 # SWR Fernsehen RP;ARD
 ln -s swr.png 1_0_1_6E47_431_A401_FFFF0000_0_0_0.png
-# SyFy;Pay deutsch
-ln -s syfy.png 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
 # SyFy;Sky
-ln -s syfy.png 1_0_1_24_11_85_FFFF0000_0_0_0.png
+ln -s syfy.png 1_0_1_24_1_85_FFFF0000_0_0_0.png
 # TELESUD;Bonus
 ln -s telesud.png 1_0_1_570C_E8_A018_FFFF0000_0_0_0.png
 # Thai Global Networks;Bonus

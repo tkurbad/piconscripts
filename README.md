@@ -42,3 +42,6 @@ A collection of scripts related to @ocram's picons
   ```python2 channelsdiff.py -h```
 
 
+* `allin.py` compares two `picons.sh`-like scripts and lists entries
+  from the second that are missing in the first. For a complete sync
+  just swap the commandline arguments. :-)
